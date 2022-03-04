@@ -36,6 +36,7 @@ _ Science and Research Branch, Azad University, Tehran
 ---
 + A quorum-based data consistency approach for non-relational database
 - DOI: https://doi.org/10.1007/s10586-021-03531-w
+- Springer - Jan 22, 2022
 
 
 ### Language
