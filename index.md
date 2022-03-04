@@ -2,7 +2,7 @@
 ### Nasim Naseri
 
 
-### Personal informations
+### Personal Informations
 
 ---
 + name: Nasim
@@ -31,7 +31,14 @@ _ Islamic Azad University, North Tehran Branch
 _ Science and Research Branch, Azad University, Tehran
 
 
-### language
+### Publication
+
+---
++ A quorum-based data consistency approach for non-relational database
+- DOI: https://doi.org/10.1007/s10586-021-03531-w
+
+
+### Language
 
 ---
 + Persian
