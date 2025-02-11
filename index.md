@@ -60,7 +60,7 @@ _ Science and Research Branch, Azad University, Tehran
 ### working Experience
 
 ---
-+ I am working in IDRO which depends on ]Iran's ministry of industry, mine and trade.(dec2023-present).
++ I am working in IDRO which depends on Iran's ministry of industry, mine and trade.(dec2023-present).
 + I am working in ISC which depends on central bank of Iran(june2019-dec2023).
 + I worked in Fanap which depends on Pasargad bank(september2016-june2019).
 + I worked in Nikan which works in site designing(april2015-september2016).
