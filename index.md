@@ -27,7 +27,7 @@
 ### Education
 
 ---
-+ Diploma : Boali Sina high school
++ Diploma mathematics & physics : Boali Sina high school
 + Bachelor of science : Software Engineering
 _ Islamic Azad University, North Tehran Branch
 + Master of science : Software Engineering
@@ -52,10 +52,10 @@ _ Science and Research Branch, Azad University, Tehran
 
 ---
 + Developing
++ IoT
 + NoSQL DBs
 + Text Mining
 + Data Model Designing
-+ IoT
 
 ### working Experience
 
