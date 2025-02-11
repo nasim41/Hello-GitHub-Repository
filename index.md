@@ -2,23 +2,26 @@
 ### Nasim Naseri
 
 
-### Personal Informations
+### Personal Information
 
 ---
++ I am a software developer and IT researcher
 + name: Nasim
 + last name : Naseri
 + Date of birth : 1994/September/22
-+ I am a software engineer and IT researcher
 + location : Tehran , I.R.Iran
++ linkedin: https://www.linkedin.com/in/nasim-naseri-778640101/
++ gmail: nnasim41@gmail.com
 
 
-### Skill Highlights
+### Skill Highlight
 
 ---
-+ Automation Test
-+ Development with c#,java,c,c++,php,python
-+ frontend and backend development
-+ Data architecture, Data analyser, Data model designer, Data Mining
++ Development with Asp.net core(web apps),c#(winform apps),java(android apps),c,c++,php,python
++ frontend and backend development(Full Stack Development)
++ Automation Test(Selenium WebDriver),Stress test,Load test(Apache JMeter),DB test(SQL Profiler),Security test(Acunetix)
++ Data architecture,Data analyzer,Data model designer,Data Mining,Text Mining
++ OOP,TDD,BDD,Software Architecture,Product Management,Network
 
 
 ### Education
@@ -48,6 +51,7 @@ _ Science and Research Branch, Azad University, Tehran
 ### Favorites
 
 ---
++ Developing
 + NoSQL DBs
 + Text Mining
 + Data Model Designing
@@ -56,7 +60,8 @@ _ Science and Research Branch, Azad University, Tehran
 ### working Experience
 
 ---
-+ I am working in Isc which depends on central bank of Iran(june2019-present).
++ I am working in IDRO which depends on ]Iran's ministry of industry, mine and trade.(dec2023-present).
++ I am working in ISC which depends on central bank of Iran(june2019-dec2023).
 + I worked in Fanap which depends on Pasargad bank(september2016-june2019).
 + I worked in Nikan which works in site designing(april2015-september2016).
 
