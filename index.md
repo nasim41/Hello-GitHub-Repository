@@ -21,7 +21,7 @@
 + frontend and backend development(Full Stack Development)
 + Automation Test(Selenium WebDriver),Stress test,Load test(Apache JMeter),DB test(SQL Profiler),Security test(Acunetix)
 + Data architecture,Data analyzer,Data model designer,Data Mining,Text Mining
-+ OOP,TDD,BDD,Software Architecture,Product Management,Network
++ Concepts of OOP,TDD,BDD,Software Architecture,Product Management,Network
 
 
 ### Education
