@@ -48,7 +48,7 @@ _ Science and Research Branch, Azad University, Tehran
 + Persian
 + English
 
-### Favorites
+### Favorite
 
 ---
 + Developing
