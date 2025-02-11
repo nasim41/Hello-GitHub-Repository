@@ -1,6 +1,6 @@
 <style type="text/css">
 body{
- direction:rtl;
+ direction:ltr;
 }
 </style>
 ### نسیم ناصری
